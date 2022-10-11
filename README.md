@@ -1,3 +1,2 @@
 # JS Assignment
-
-An Assignment on JavaScript Concepts
+Assignment on factorial program in javascript
