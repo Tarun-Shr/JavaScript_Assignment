@@ -1,2 +1,2 @@
 # JS Assignment
-Assignment on factorial program in javascript
+Assignment on Javascript Basics
